@@ -1,0 +1,11 @@
+.page {
+    background:plum;
+}
+
+.page h1{
+    color: black;
+}
+
+.text {
+    text-transform: uppercase;
+}
