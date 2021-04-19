@@ -1,7 +1,7 @@
 import React from "react"
 import Header from "../examples/Header"
 import HeaderStatic from "../examples/HeaderStatic"
-import Layout from "../components/layout"
+import Layout from "../components/Layout"
 import { graphql } from "gatsby"
 
 //this is the PageQuery 33.

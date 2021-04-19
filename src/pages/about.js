@@ -1,5 +1,5 @@
 import React from "react"
-import Layout from "../components/layout"
+import Layout from "../components/Layout"
 import styled from "styled-components"
 import { StaticImage } from "gatsby-plugin-image"
 import { Link, graphql } from "gatsby"
